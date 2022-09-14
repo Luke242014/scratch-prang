@@ -1,0 +1,2 @@
+# scratch-prang
+For scratch.
